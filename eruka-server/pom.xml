@@ -8,7 +8,7 @@
         <relativePath/> 
     </parent>
   <groupId>com.cloud</groupId>
-  <artifactId>cloud</artifactId>
+  <artifactId>eruka-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
